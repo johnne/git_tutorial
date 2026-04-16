@@ -1,3 +1,4 @@
 dependencies:
   - bowtie2=2.2.4
   - multiqc=1.6
+

@@ -1,1 +1,1 @@
-bowtie2 -x input > output
+bowtie2 -x --trim5 5 input > output
