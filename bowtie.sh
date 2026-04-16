@@ -1,1 +1,1 @@
-bowtie2 --very-sensitive-local -x input > output
+bowtie2 -x input > output
